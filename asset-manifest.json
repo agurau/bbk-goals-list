@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bbk-goals-list/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/bbk-goals-list/static/js/main.fe70c0cb.chunk.js",
+    "main.js.map": "/bbk-goals-list/static/js/main.fe70c0cb.chunk.js.map",
+    "runtime-main.js": "/bbk-goals-list/static/js/runtime-main.6ece8f1f.js",
+    "runtime-main.js.map": "/bbk-goals-list/static/js/runtime-main.6ece8f1f.js.map",
+    "static/js/2.a703cdac.chunk.js": "/bbk-goals-list/static/js/2.a703cdac.chunk.js",
+    "static/js/2.a703cdac.chunk.js.map": "/bbk-goals-list/static/js/2.a703cdac.chunk.js.map",
+    "static/js/3.38b29f7c.chunk.js": "/bbk-goals-list/static/js/3.38b29f7c.chunk.js",
+    "static/js/3.38b29f7c.chunk.js.map": "/bbk-goals-list/static/js/3.38b29f7c.chunk.js.map",
+    "index.html": "/bbk-goals-list/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/bbk-goals-list/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a703cdac.chunk.js.LICENSE.txt": "/bbk-goals-list/static/js/2.a703cdac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ece8f1f.js",
+    "static/js/2.a703cdac.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fe70c0cb.chunk.js"
+  ]
+}
